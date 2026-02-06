@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "不可逆リプレイス - Fukagyaku Replace",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-02-06T06:57:27.060434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不可逆リプレイス",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/01_不可逆リプレイス_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不可逆リプレイス",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/02_不可逆リプレイス_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "不可逆リプレイス",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/03_不可逆リプレイス_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "不可逆リプレイス - Fukagyaku Replace",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/04_不可逆リプレイス_-_Fukagyaku_Replace_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "不可逆リプレイス",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/05_不可逆リプレイス_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fukagyaku Replace (不可逆リプレイス)",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/06_Fukagyaku_Replace_(不可逆リプレイス)_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "不可逆リプレイス (re:rec)",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/07_不可逆リプレイス_(re_rec)_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不可逆リプレイス",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_不可逆リプレイス_MY_FIRST_STORY.txt"
+    }
+  ]
+}
